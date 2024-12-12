@@ -1,0 +1,22 @@
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .main-head{
+    font-weight: 800;
+    font-size: 60px;
+  }
+  .content ,.quote  {
+    font-weight: 700;
+    font-size: 20px;
+  }
+  .content button{
+    padding-block: 15px;
+    padding-inline: 35px;
+  }
+  .content button:hover{
+   background-color:white ;
+   color: #198754;
+  }
